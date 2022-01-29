@@ -1,5 +1,6 @@
 import logo from './logo.svg';
-import './App.css';
+import './css/App.css';
+import './css/Nav.css';
 import Nav from './components/Nav';
 import Main from './components/Main';
 
