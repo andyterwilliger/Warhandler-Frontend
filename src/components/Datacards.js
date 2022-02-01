@@ -4,7 +4,7 @@ function Datacard(props) {
     const [datacards, setDatacards] = useState(null);
 
     const getSheets = async() =>{
-        const response = await fetch("https://warhandlerbackend.herokuapp.com/DatasheetsModels");
+        const response = await fetch(props.URL + "DatasheetsModels");
         const data = await response.json()
         const info = await data.filter(unit => unit.datasheet_id === props.match.params.symbol); 
         setDatacards(info);

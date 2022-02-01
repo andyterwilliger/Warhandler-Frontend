@@ -14,7 +14,6 @@ import { Route, Switch } from 'react-router-dom';
 import Index from './pages/Index';
 
 function App() {
-  //const URL = 'http://localhost:4000/'
   const URL = 'https://warhandlerbackend.herokuapp.com/';
   return (
     <div className="App">
@@ -25,9 +24,7 @@ function App() {
           <Index URL={URL} />
         </Route>
         <Route path="/army/:symbol" render={(props) => <Datacards URL={URL} {...props} />} />
-
       </Switch>
-
     </div>
   );
 }
