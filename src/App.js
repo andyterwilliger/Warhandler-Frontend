@@ -1,6 +1,7 @@
 //Import CSS 
 import './css/App.css';
 import './css/Nav.css';
+import './css/Index.css'
 
 //Import components
 import Nav from './components/Nav';
@@ -17,6 +18,7 @@ function App() {
   return (
     <div className="App">
       <Nav />
+      <Main />
       <Switch>
         <Route exact path = '/'>
           <Index URL={URL} />
