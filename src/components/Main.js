@@ -4,10 +4,7 @@ import Index from '../pages/Index';
 
 function Main(props){
     return(
-        <div id = "div-container">
-            <Index />
-
-        </div>
+        <h1>WarHandler</h1>
     )
 }
 export default Main;

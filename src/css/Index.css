@@ -7,4 +7,5 @@ section{
   gap: 0px 0px; 
   grid-template-areas: 
     ". . . ."; 
+    font-size: 10px;
 }
