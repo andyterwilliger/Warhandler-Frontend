@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 
 function Index(props) {
 
@@ -21,7 +22,9 @@ function Index(props) {
           
               
             <div className="unit-container">
+                <Link key ={unit.id} to ={`/army/${unit.id}`}>
                 <h1>{unit.name}</h1>
+                </Link>
                 <img src={unit.img} alt="" />
 
 
