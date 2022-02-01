@@ -9,10 +9,21 @@ import { Route, Switch } from 'react-router-dom';
 
 //Import Pages
 
+import Index from './pages/Index';
+
 function App() {
+  const URL = 'http://localhost:4000/'
+  //const URL = 'https://warhandlerbackend.herokuapp.com/';
   return (
     <div className="App">
       <Nav />
+      <Switch>
+        <Route exact path = '/'>
+          <Index URL={URL} />
+        </Route>
+
+
+      </Switch>
 
     </div>
   );
