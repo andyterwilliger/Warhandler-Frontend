@@ -1,13 +1,17 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Nav from './components/Nav';
 import Main from './components/Main';
+import MainCreate from './components/MainCreate';
+
 
 function App() {
   return (
     <div className="App">
       <Nav />
       <Main />
+      <MainCreate />
+     
     </div>
   );
 }
