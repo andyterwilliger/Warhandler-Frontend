@@ -7,10 +7,9 @@ import CreateShow from '../pages/CreateShow';
 
 
 function MainCreate(props) {
-    <div className='MainCreate'></div>
     
     const [ units, setUnits ] = useState(null);
-    const URL = 'http://localhost:4000/units/';
+    const URL = 'https://warhandlerbackend.herokuapp.com/units/';
 
     const getUnits = async () => {
         const response = await fetch(URL);
@@ -53,7 +52,7 @@ function MainCreate(props) {
     return (
      
             <Switch>
-                <Route exact path='/'>
+                <Route exact path='/units'>
                      <CreateArmy units={units} createUnits={createUnits} />
                 </Route>
                 <Route 
