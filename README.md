@@ -25,7 +25,7 @@ https://wahapedia.ru/wh40k9ed/the-rules/about/
 ## Deployment
 
 To deploy this project run
-https://warhandlerbackend.herokuapp.com/abilities
+https://warhandlerbackend.herokuapp.com
 
 
 
