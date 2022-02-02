@@ -38,6 +38,8 @@ https://warhandlerbackend.herokuapp.com
 
 ## Screenshots
 
+![GIF](https://media3.giphy.com/media/hWXNXXSXNcJ5l2ocZ3/100.gif?cid=ecf05e47ae5ve7c65xr4l8ssb7clypsf8dl5h19pau5q18u1&rid=100.gif&ct=g)
+
 ![Imgur](https://i.imgur.com/t76J9Ve.png)
 
 ![Imgur](https://i.imgur.com/sxger0K.png)
