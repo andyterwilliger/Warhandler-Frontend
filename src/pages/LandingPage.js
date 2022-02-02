@@ -1,4 +1,4 @@
-import WarHammerLogo from 'https://static.wikia.nocookie.net/warhammer40k/images/0/0f/Warhammer40000Logo.jpg/revision/latest/scale-to-width-down/2000?cb=20200406214317';
+
 import { Link } from 'react-router-dom'
 
 
@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 function LandingPage() {
     return (
         <div className='LandingPage'>
-        <img src={WarHammerLogo} alt='WarHammer Logo'/>
+        
         
             <h1>THE DARK MILLENNIUM</h1>
             <h2>FIGHT FOR THE FUTURE OF HUMANITY ACROSS A VICIOUS, WAR-TORN GALAXY</h2>
