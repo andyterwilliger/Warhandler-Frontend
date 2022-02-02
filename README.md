@@ -2,7 +2,8 @@
 
 WarHandler
 
-A data resource app for WarHammer 40k.  Our app is designed to show players the different units and their values. Check out our index of units or use the link to create your own unit.
+Warhammer 40K is a tabletop miniatures game by Games Workshop, and it is one of the most popular army scale tabletop games in the world. 
+Our mission was to design a more comprehensive, user-friendly data resource app for players to use.  Our app is designed to show players the different units and their abilities. Check out our index of units or use the link to create your own unit.
 
 
 
