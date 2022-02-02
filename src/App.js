@@ -3,6 +3,7 @@ import './App.css';
 import Nav from './components/Nav';
 import Main from './components/Main';
 import MainCreate from './components/MainCreate';
+import './Create.css';
 
 
 function App() {

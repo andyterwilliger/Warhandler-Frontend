@@ -27,6 +27,8 @@ function CreateShow(props) {
         props.history.push('/');
     }
     return (
+      
+        
         <div className="unit">
           <h1>{unit.Name}</h1>
           <h2>{unit.Movement}</h2>
@@ -42,7 +44,7 @@ function CreateShow(props) {
            <button id='delete' onClick={removeUnit}>
               DELETE
           </button>
-
+      
           <form onSubmit={handleSubmit}>
             <input
                  type="text"
@@ -50,7 +52,7 @@ function CreateShow(props) {
                  name="Name"
                  placeholder="Name"
                  onChange={handleChange}
-               />
+               /> 
                <input
                  type="text"
                  value={editForm.Movement}
