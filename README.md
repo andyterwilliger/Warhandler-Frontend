@@ -3,7 +3,11 @@
 WarHandler
 
 Warhammer 40K is a tabletop miniatures game by Games Workshop, and it is one of the most popular army scale tabletop games in the world. 
-Our mission was to design a more comprehensive, user-friendly data resource app for players to use.  Our app is designed to show players the different units and their abilities. Check out our index of units or use the link to create your own unit.
+As in other miniature wargames, players enact battles using miniature models of warriors and fighting vehicles. The playing area is a tabletop model of a battlefield, comprising models of buildings, hills, trees, and other terrain features. Each player takes turns to move their model warriors around the battlefield and pretend that they are fighting their opponent's warriors. These imaginary fights are resolved using dice and simple arithmetic.
+
+Warhammer 40,000 is set in the distant future, where a stagnant human civilization is beset by hostile aliens and supernatural creatures. The models in the game are a mixture of humans, aliens, and supernatural monsters, wielding futuristic weaponry and supernatural powers. The fictional setting of the game has been developed through a large body of novels, published by Black Library.
+
+Our mission was to design a more comprehensive, user-friendly data resource app for players to reference.  Our app is designed to show players the different units and their abilities. Check out our index of units or use the link to create your own unit.
 
 
 
