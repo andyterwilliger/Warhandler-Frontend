@@ -1,8 +1,9 @@
+
 #big-h1 {
     font-size: 50px;
 }
 
-section {
+#index-section {
     background-color: #EDF2F4;
     margin: 75px;
     display: grid;
@@ -29,7 +30,7 @@ img {
     width: 10rem
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and  (max-width: 400px) {
    
     nav {
         font-size: 9px ;
@@ -39,7 +40,7 @@ img {
         font-size: 25px;
     }
 
-    section {
+    #index-section {
 
         display: flex;
         flex-direction: column;
@@ -48,12 +49,12 @@ img {
 }
 
 
-@media only screen and ( min-width: 450px) and (max-width: 700px){
+@media only screen and ( min-width: 450px) and (max-width: 900px){
 
     #big-h1{
         font-size: 40px
     }
-    section{
+    #index-section{
     font-size: 1rem;
     display: grid;
     grid-auto-columns: 1fr;

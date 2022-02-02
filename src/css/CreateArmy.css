@@ -1,0 +1,55 @@
+@import url('http://fonts.cdnfonts.com/css/space-marine');
+
+#create-html {
+
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+        font-family: 'Space Marine', sans-serif;
+
+      
+}
+#create-army-form{
+    background-color: #EDF2F4;
+    margin: 50px;
+    
+    
+
+}
+
+
+input {
+      margin: 10px;
+      border-radius: 10px;
+      padding: 8px;
+      font-family: 'Space Marine', sans-serif;
+
+}
+
+#create-army-submit{
+    background-color:black;
+    color: white;
+}
+
+#units{
+    background-color: #EDF2F4;
+    margin: 5% 25% 5% 25%
+}
+
+
+@media only screen and (max-width: 400px){
+    #create-army-form{
+        
+    }
+    input{
+        width: 70%;
+    }
+    #create-army-submit{
+        width: 90%;
+    }
+    #units{
+        margin: 1% 5% 1% 5%;
+    }
+}

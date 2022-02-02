@@ -2,14 +2,14 @@
 import './css/App.css';
 import './css/Nav.css';
 import './css/Index.css'
-
+import './css/CreateArmy.css';
 //Import components
 import Nav from './components/Nav';
 import Main from './components/Main';
 import Datacards from './components/Datacards';
 import { Route, Switch } from 'react-router-dom';
 import MainCreate from './components/MainCreate';
-import './Create.css';
+
 
 //Import Pages
 import Index from './pages/Index';

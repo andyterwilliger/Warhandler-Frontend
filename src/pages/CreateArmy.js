@@ -61,8 +61,9 @@ const loading = () => {
 
 
 return (
+   
     <section>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} id = 'create-army-form'>
         <input
           type="text"
           value={newForm.Name}
@@ -143,10 +144,13 @@ return (
           onChange={handleChange}
         />
          <br/>
-        <input id = 'submit' type="submit" value="Create Army Unit" />
+        <input id = 'create-army-submit' type="submit" value="Create Army Unit" />
       </form>
+    <div id = "units">
     {props.units ? loaded() : loading()}
+    </div>
     </section>
+    
   );
 }
 

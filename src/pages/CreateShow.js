@@ -28,22 +28,20 @@ function CreateShow(props) {
     }
     return (
       
-        
-        <div className="unit">
-          <h1>{unit.Name}</h1>
-          <h2>{unit.Movement}</h2>
-          <h2>{unit.WeaponSkill}</h2>
-          <h2>{unit.BallisticSkill}</h2>
-          <h2>{unit.Strength}</h2>
-          <h2>{unit.Toughness}</h2>
-          <h2>{unit.Wounds}</h2>
-          <h2>{unit.Attacks}</h2>
-          <h2>{unit.Leadership}</h2>
-          <h2>{unit.Save}</h2>
+       
+      <div className="unit">
+      <h1>{unit.Name}</h1>
+      <h2>{unit.Movement}</h2>
+      <h2>{unit.WeaponSkill}</h2>
+      <h2>{unit.BallisticSkill}</h2>
+      <h2>{unit.Strength}</h2>
+      <h2>{unit.Toughness}</h2>
+      <h2>{unit.Wounds}</h2>
+      <h2>{unit.Attacks}</h2>
+      <h2>{unit.Leadership}</h2>
+      <h2>{unit.Save}</h2>
           
-           <button id='delete' onClick={removeUnit}>
-              DELETE
-          </button>
+          
       
           <form onSubmit={handleSubmit}>
             <input
@@ -118,6 +116,9 @@ function CreateShow(props) {
                />
                <input type="submit" value="Update Unit" />
         </form>
+        <button id='delete' onClick={removeUnit}>
+              DELETE UNIT
+          </button>
       </div>
     );
   }

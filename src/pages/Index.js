@@ -15,7 +15,7 @@ function Index(props) {
 
     const loaded = () => {
         return (
-            <section>
+            <section id ="index-section">
                 {datasheets.map((unit) => (
                     <div className="unit-container">
                         <Link key={unit.id} to ={`/army/${unit.id}`}>
