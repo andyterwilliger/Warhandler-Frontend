@@ -1,7 +1,3 @@
-import './App.css';
-import Nav from './components/Nav';
-import Main from './components/Main';
-
 //Import CSS 
 import './css/App.css';
 import './css/Nav.css';
@@ -28,8 +24,8 @@ function App() {
         <Route exact path = '/'>
           <Index URL={URL} />
         </Route>
-        <MainCreate />
         <Route path="/army/:symbol" render={(props) => <Datacards URL={URL} {...props} />} />
+        <MainCreate />
       </Switch>
     </div>
   );
