@@ -18,7 +18,7 @@ function Index(props) {
             <section>
                 {datasheets.map((unit) => (
                     <div className="unit-container">
-                        <Link key ={unit.id} to ={`/army/${unit.id}`}>
+                        <Link key={unit.id} to ={`/army/${unit.id}`}>
                         <h1>{unit.name}</h1>
                         </Link>
                         <img src={unit.img} alt="" />
