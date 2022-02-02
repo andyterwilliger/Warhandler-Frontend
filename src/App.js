@@ -1,3 +1,7 @@
+import './App.css';
+import Nav from './components/Nav';
+import Main from './components/Main';
+
 //Import CSS 
 import './css/App.css';
 import './css/Nav.css';
@@ -8,10 +12,11 @@ import Nav from './components/Nav';
 import Main from './components/Main';
 import Datacards from './components/Datacards';
 import { Route, Switch } from 'react-router-dom';
+import MainCreate from './components/MainCreate';
 
 //Import Pages
-
 import Index from './pages/Index';
+
 
 function App() {
   const URL = 'https://warhandlerbackend.herokuapp.com/';
@@ -23,6 +28,7 @@ function App() {
         <Route exact path = '/'>
           <Index URL={URL} />
         </Route>
+        <MainCreate />
         <Route path="/army/:symbol" render={(props) => <Datacards URL={URL} {...props} />} />
       </Switch>
     </div>
