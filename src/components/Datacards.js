@@ -5,26 +5,48 @@ function Datacard(props) {
 
     const getSheets = async() =>{
         const response = await fetch(props.URL + "DatasheetsModels");
+        const image = await fetch(props.URL + "Datasheets");
         const data = await response.json()
+        const datasheet = await image.json()
         const info = await data.filter(unit => unit.datasheet_id === props.match.params.symbol); 
+        const unitImage = await datasheet.filter(unit => unit.id === props.match.params.symbol);
+        info.push(unitImage[0]);
         setDatacards(info);
     }
     useEffect(() => getSheets(), []);
 
     const loaded = () =>{
         return (
-            <div>
-                <div>{datacards[0].name}</div>
-                <div>{datacards[0].M}</div>
-                <div>{datacards[0].WS}</div>
-                <div>{datacards[0].BS}</div>
-                <div>{datacards[0].S}</div>
-                <div>{datacards[0].T}</div>
-                <div>{datacards[0].W}</div>
-                <div>{datacards[0].A}</div>
-                <div>{datacards[0].Ld}</div>
-                <div>{datacards[0].Sv}</div>
-            </div>
+            <table>
+                <tr>
+                    <th><img src={datacards[1].img} alt="Unit's image"/></th>
+                    <th>{datacards[0].name}</th>
+                    <th>{datacards[1].faction_id}</th>
+                    <th>M</th>
+                    <th>WS</th>
+                    <th>BS</th>
+                    <th>S</th>
+                    <th>T</th>
+                    <th>W</th>
+                    <th>A</th>
+                    <th>Ld</th>
+                    <th>Sv</th>
+                </tr>
+                <tr>
+                    <td>{datacards[0].M}</td>
+                    <td>{datacards[0].WS}</td>
+                    <td>{datacards[0].BS}</td>
+                    <td>{datacards[0].S}</td>
+                    <td>{datacards[0].T}</td>
+                    <td>{datacards[0].W}</td>
+                    <td>{datacards[0].A}</td>
+                    <td>{datacards[0].Ld}</td>
+                    <td>{datacards[0].Sv}</td>
+                </tr>
+                <tr>
+                    <td>{datacards[1].role}</td>
+                </tr>
+            </table>
         )
     }
 
