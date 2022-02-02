@@ -1,12 +1,13 @@
 
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 
 
 
-function LandingPage() {
+
+function LandingPage(props) {
     return (
         <div className='LandingPage'>
-        
+        <img src='https://logos-download.com/wp-content/uploads/2016/02/warhammer-40000-and_bird_logo.png' height='300' width='300' alt='WarHammer Logo'></img>
         
             <h1>THE DARK MILLENNIUM</h1>
             <h2>FIGHT FOR THE FUTURE OF HUMANITY ACROSS A VICIOUS, WAR-TORN GALAXY</h2>
