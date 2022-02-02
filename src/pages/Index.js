@@ -8,6 +8,11 @@ function Index(props) {
     const getSheets = async () => {
         const response = await fetch(props.URL + 'Datasheets');
         const data = await response.json()
+        data.sort((a, b) => {
+            let x = a.name.toUpperCase(),
+                y = b.name.toUpperCase();
+            return x == y ? 0 : x > y ? 1 : -1;
+        });
         setDatasheets(data);
     }
 
@@ -18,12 +23,15 @@ function Index(props) {
             <section>
                 {datasheets.map((unit) => (
                     <div className="unit-container">
-                        <Link key={unit.id} to ={`/army/${unit.id}`}>
-                        <h1>{unit.name}</h1>
+                        <Link key={unit.id} to={`/army/${unit.id}`}>
+                            <h1>{unit.name}</h1>
                         </Link>
                         <img src={unit.img} alt="" />
                     </div>
-                ))}
+                ))
+                }
+                
+                
             </section>
     )}
 
