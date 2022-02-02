@@ -1,3 +1,7 @@
+
+![GIF](https://media0.giphy.com/media/RLv9UwnfiNb9K/200.gif?cid=ecf05e47tn41aer97ovleq3sueas5qy11zd5kri3wrbnu8yk&rid=200.gif&ct=g)
+
+
 ## Project Name
 
 WarHandler
@@ -38,9 +42,8 @@ https://warhandlerbackend.herokuapp.com
 
 ## Screenshots
 
-![GIF](https://media3.giphy.com/media/hWXNXXSXNcJ5l2ocZ3/100.gif?cid=ecf05e47ae5ve7c65xr4l8ssb7clypsf8dl5h19pau5q18u1&rid=100.gif&ct=g)
-![GIF](https://media2.giphy.com/media/WprqYyQgk0iGlQ5QzD/100.gif?cid=ecf05e47tn41aer97ovleq3sueas5qy11zd5kri3wrbnu8yk&rid=100.gif&ct=g)
-![GIF](https://media0.giphy.com/media/RLv9UwnfiNb9K/200.gif?cid=ecf05e47tn41aer97ovleq3sueas5qy11zd5kri3wrbnu8yk&rid=200.gif&ct=g)
+
+
 ![Imgur](https://i.imgur.com/t76J9Ve.png)
 
 ![Imgur](https://i.imgur.com/sxger0K.png)
