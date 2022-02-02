@@ -9,13 +9,12 @@ function Index(props) {
         const response = await fetch(props.URL + 'Datasheets');
         const data = await response.json()
         data.sort((a, b) => {
-            let x = a.name.toUpperCase(),
-                y = b.name.toUpperCase();
+            let x = a.name,
+                y = b.name;
             return x == y ? 0 : x > y ? 1 : -1;
         });
         setDatasheets(data);
     }
-
     useEffect(() => getSheets(), []);
 
     const loaded = () => {
