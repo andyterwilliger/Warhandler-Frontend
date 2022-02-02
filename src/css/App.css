@@ -1,0 +1,25 @@
+@import url('http://fonts.cdnfonts.com/css/space-marine');
+
+
+.App {
+  text-align: center;
+}
+
+body{
+  color:black;
+  font-family: 'Space Marine', sans-serif;
+                                                
+}
+
+html { 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #8D99AE;
+}
+
+img{
+  width: 50%;
+}
+
