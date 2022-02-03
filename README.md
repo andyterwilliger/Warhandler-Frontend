@@ -13,34 +13,34 @@ As in other miniature wargames, players enact battles using miniature models of 
 
 Warhammer 40,000 is set in the distant future, where a stagnant human civilization is beset by hostile aliens and supernatural creatures. The models in the game are a mixture of humans, aliens, and supernatural monsters, wielding futuristic weaponry and supernatural powers. The fictional setting of the game has been developed through a large body of novels, published by Black Library.
 
-### Click on the Index tab to view a large list of Units including their name and image 
+- Click on the Index tab to view a large list of Units including their name and image 
 
-### Select a unit to view and you'll be directed to a Datacard.  Here we have included the Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds, Attacks, Leadership and Save for that specific Unit.
+- Select a unit to view and you'll be directed to a Datacard.  Here we have included the Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds, Attacks, Leadership and Save for that specific Unit.
 
-### Interested in creating your own Unit? Check out the Create Link where you can Create, Update and Delete a Unit of your own!
-
-
+- Interested in creating your own Unit? Check out the Create Link where you can Create, Update and Delete a Unit of your own!
 
 
-## **Trello Link**
+
+
+## *Trello Link*
 
 https://trello.com/b/fmRYYcEh/warhandler
 
 
 
 
-## **Pitch Deck**
+## *Pitch Deck*
 Check out our Pitch Deck created with   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 https://www.canva.com/design/DAE23phu_lU/H0TOaIcS6gNls0wqNQDpQw/view?utm_content=DA[…]gn=designshare&utm_medium=link&utm_source=shareyourdesignpanel
 
 
-## **Resources for more WarHammer Info**
+## *Resources for more WarHammer Info*
 
 https://wahapedia.ru/wh40k9ed/the-rules/about/
 
 
-## **Deployment**
+## *Deployment*
 
 To deploy this project run
 https://warhandlerbackend.herokuapp.com
@@ -49,7 +49,7 @@ https://warhandlerbackend.herokuapp.com
 
 
 
-## **Screenshots**
+## *Screenshots*
 
 
 
@@ -61,7 +61,7 @@ https://warhandlerbackend.herokuapp.com
 
 
 
-## **Ice Box**
+## *Ice Box*
 
 
 Ability to create armies using our database
@@ -70,7 +70,7 @@ Ability to create armies using our database
 
 
 
-## **Technologies Used**
+## *Technologies Used*
 
 
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -87,7 +87,7 @@ Ability to create armies using our database
  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
  ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-# **Authors**
+# *Authors*
 
 Find us on
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
