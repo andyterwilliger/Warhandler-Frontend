@@ -22,7 +22,7 @@ Warhammer 40,000 is set in the distant future, where a stagnant human civilizati
 
 
 
-## ** Trello Link **
+## **Trello Link**
 
 https://trello.com/b/fmRYYcEh/warhandler
 
@@ -35,12 +35,12 @@ Check out our Pitch Deck created with   ![Canva](https://img.shields.io/badge/Ca
 https://www.canva.com/design/DAE23phu_lU/H0TOaIcS6gNls0wqNQDpQw/view?utm_content=DA[…]gn=designshare&utm_medium=link&utm_source=shareyourdesignpanel
 
 
-## Resources for more WarHammer Info
+## **Resources for more WarHammer Info**
 
 https://wahapedia.ru/wh40k9ed/the-rules/about/
 
 
-## Deployment
+## **Deployment**
 
 To deploy this project run
 https://warhandlerbackend.herokuapp.com
@@ -49,7 +49,7 @@ https://warhandlerbackend.herokuapp.com
 
 
 
-## Screenshots
+## **Screenshots**
 
 
 
@@ -61,7 +61,7 @@ https://warhandlerbackend.herokuapp.com
 
 
 
-## Ice Box
+## **Ice Box**
 
 
 Ability to create armies using our database
