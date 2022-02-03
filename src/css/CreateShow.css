@@ -1,0 +1,14 @@
+@import url('http://fonts.cdnfonts.com/css/space-marine');
+
+#delete{
+    font-family: 'Space Marine', sans-serif;
+    border-radius: 10px;
+    padding: 8px;
+    background-color:black;
+    color: white;
+}
+
+#submit{
+    background-color:black;
+    color:white;
+}
