@@ -1,0 +1,29 @@
+ table{
+     display:flex;
+     justify-content:center;
+     align-items:flex-end;
+     background-color: #EDF2F4;
+     margin: 0 10% 0 10%;
+     padding: 10px 20px;
+     
+ }
+ .header{
+     width: 30rem;
+ }
+
+ th {
+    border: 1px solid black;
+    display:flex;
+    justify-content:center;
+    padding: 10px;
+    
+  }
+
+  td{
+      border: 1px solid black;
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+      
+  }
+
