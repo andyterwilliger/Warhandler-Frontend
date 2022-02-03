@@ -15,9 +15,9 @@ Warhammer 40,000 is set in the distant future, where a stagnant human civilizati
 
 ### Click on the Index tab to view a large list of Units including their name and image 
 
-###Select a unit to view and you'll be directed to a Datacard.  Here we have included the Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds, Attacks, Leadership and Save for that specific Unit.
+### Select a unit to view and you'll be directed to a Datacard.  Here we have included the Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds, Attacks, Leadership and Save for that specific Unit.
 
-###Interested in creating your own Unit? Check out the Create Link where you can Create, Update and Delete a Unit of your own!
+### Interested in creating your own Unit? Check out the Create Link where you can Create, Update and Delete a Unit of your own!
 
 
 ### Trello Link
