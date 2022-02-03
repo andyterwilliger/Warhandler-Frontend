@@ -60,7 +60,7 @@ https://warhandler.netlify.app
 
 ![Imgur](https://i.imgur.com/QB3xVUr.png)
 
-![IMGUR](https://i.imgur.com/nnyRcKhs.png)
+![IMGUR](https://i.imgur.com/nnyRcKhb.png)
 
 
 
