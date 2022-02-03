@@ -3,7 +3,8 @@ import './css/App.css';
 import './css/Nav.css';
 import './css/Index.css';
 import './css/Landing.css';
-
+import './css/CreateArmy.css';
+import './css/CreateShow.css';
 //Import components
 import Nav from './components/Nav';
 import Main from './components/Main';
