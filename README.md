@@ -1,6 +1,6 @@
 
 
-![GIF](https://media0.giphy.com/media/RLv9UwnfiNb9K/200.gif?cid=ecf05e47tn41aer97ovleq3sueas5qy11zd5kri3wrbnu8yk&rid=200.gif&ct=g)  Our mission was to design a more comprehensive, user-friendly data resource app for players to reference.
+![GIF](https://media0.giphy.com/media/RLv9UwnfiNb9K/200.gif?cid=ecf05e47tn41aer97ovleq3sueas5qy11zd5kri3wrbnu8yk&rid=200.gif&ct=g)  
 
 
 
@@ -13,8 +13,9 @@ As in other miniature wargames, players enact battles using miniature models of 
 
 Warhammer 40,000 is set in the distant future, where a stagnant human civilization is beset by hostile aliens and supernatural creatures. The models in the game are a mixture of humans, aliens, and supernatural monsters, wielding futuristic weaponry and supernatural powers. The fictional setting of the game has been developed through a large body of novels, published by Black Library.
 
-Our mission was to design a more comprehensive, user-friendly data resource app for players to reference.  Our app is designed to show players the different units and their abilities. Check out our index of units or use the link to create your own unit.
-
+-Click on the Index tab to view a large list of Units including their name and image 
+-Select a unit to view and you'll be directed to a Datacard.  Here we have included the Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds, Attacks, Leadership and Save for that specific Unit.
+-Interested in creating your own Unit? Check out the Create Link where you can Create, Update and Delete a Unit of your own!
 
 
 ### Trello Link
