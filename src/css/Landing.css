@@ -1,0 +1,59 @@
+.LandingPage{
+     background: url('https://cdn.vox-cdn.com/thumbor/gQGqMZISqQf5kC_kK-ZtO3sAjr4=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22719480/bg_titledesktop.jpeg') no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+    height: 100vh;
+    color: white;
+    
+
+}
+#landing-h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200%;
+}
+
+#landing-h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60%;
+    height: 40%;
+    
+}
+
+#landing-button{
+    display: flex;
+    justify-content: center;
+    
+}
+
+button{
+    color: black;
+    font-family: 'Space Marine', sans-serif;
+    padding: 1%;
+    border-radius: 10%;
+    
+    
+   
+}
+
+@media only screen and (max-width: 400px) {
+    nav{
+       font-size: .5rem;
+    }
+    
+    h1{
+        font-size: 80%;
+       
+    }
+
+    h2{
+        width: 85%;
+    }
+    
+}
+
