@@ -13,9 +13,9 @@ As in other miniature wargames, players enact battles using miniature models of 
 
 Warhammer 40,000 is set in the distant future, where a stagnant human civilization is beset by hostile aliens and supernatural creatures. The models in the game are a mixture of humans, aliens, and supernatural monsters, wielding futuristic weaponry and supernatural powers. The fictional setting of the game has been developed through a large body of novels, published by Black Library.
 
-- Click on the Index tab to view a large list of Units including their name and image 
+- Click on the Index tab to view an extensive list of Units including their name and image. 
 
-- Select a unit to view and you'll be directed to a Datacard.  Here we have included the Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds, Attacks, Leadership and Save for that specific Unit.
+- Select a unit to view and you'll be directed to a Datacard where we have included the battle data for that specific Unit.
 
 - Interested in creating your own Unit? Check out the Create Link where you can Create, Update and Delete a Unit of your own!
 
@@ -63,8 +63,11 @@ https://warhandlerbackend.herokuapp.com
 
 ## *Ice Box*
 
-
-Ability to create armies using our database
+Upon further development we would like to add:
+- User Authorization
+- Ability to create a User Profile with Army lists that persist
+- Ability to view and print Army Lists that User created
+- Allow User to share personal lists with other Users
 
 
 
@@ -92,11 +95,11 @@ Ability to create armies using our database
 Find us on
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Andy Terwilliger www.linkedin.com/in/andy-terwilliger
+Chris McClarin   | Project Roles: Scrum Leader & Frontend Developer | www.linkedin.com/in/cmmdeveloper
 
-Chris McClarin www.linkedin.com/in/cmmdeveloper
+Andy Terwilliger | Project Roles: CSS Developer & Full Stack Developer  | www.linkedin.com/in/andy-terwilliger
 
-Kendlyn Marriott www.linkedin.com/in/kendlyn-marriott
+Kendlyn Marriott | Project Roles: Backend Developer & PitchDeck |www.linkedin.com/in/kendlyn-marriott
 
 
 	
