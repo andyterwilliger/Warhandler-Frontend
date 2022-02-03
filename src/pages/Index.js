@@ -58,11 +58,12 @@ function Index(props) {
 
     const loaded = () => {
         return (
-            <h1>All Units</h1>
-            <section id ="index-section">
-                {Lists()}
-            </section>
-            </body>
+            <>
+                <h1>All Units</h1>
+                <section id ="index-section">
+                    {Lists()}
+                </section>
+            </>
     )}
 
     return datasheets ? loaded() : <h1>Loading...</h1>
