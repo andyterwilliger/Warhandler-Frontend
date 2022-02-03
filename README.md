@@ -5,7 +5,7 @@
 
 
 
-# **WarHandler**
+# *WarHandler*
 
 ## Our mission was to design a comprehensive, user-friendly data resource app for players.
 Warhammer 40K is a tabletop miniatures game by Games Workshop, and it is one of the most popular army scale tabletop games in the world. 
