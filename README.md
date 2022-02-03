@@ -44,6 +44,7 @@ https://wahapedia.ru/wh40k9ed/the-rules/about/
 
 To deploy this project run
 https://warhandlerbackend.herokuapp.com
+https://warhandler.netlify.app
 
 
 
