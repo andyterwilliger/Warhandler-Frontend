@@ -17,6 +17,9 @@ function Datacard(props) {
 
     const loaded = () =>{
         return (
+        <section>
+            <h1></h1>
+            <br/>
             <table> 
                 <thead> 
                     <tr> 
@@ -37,6 +40,7 @@ function Datacard(props) {
                 </thead> <br/>
                 
             </table>
+            </section>
         )
     }
 

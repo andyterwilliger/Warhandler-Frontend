@@ -4,9 +4,9 @@ import Index from '../pages/Index';
 
 function Main(props){
     return(
-        <body>
-            
-        </body>
+       <body>
+           
+       </body>
     )
 }
 export default Main;

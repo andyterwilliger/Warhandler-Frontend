@@ -43,12 +43,12 @@ function Index(props) {
             const warhandler = []
             for (let i = 0; i < datasheets[29].length; i++) {
                 let army = (<div>
-                    <div>{datasheets[29][i].name}</div>
+                    <div id="faction-name">{datasheets[29][i].name}</div> <br/><br/>
                     <div>{datasheets[i].map((unit) => {
                         return (
                         <div key={unit.id} className="unit-container">
                             <Link to={`/army/${unit.id}`}>
-                                <h1>{unit.name}</h1>
+                                <h1 id= 'unit-name'>{unit.name}</h1>
                             </Link>
                         <img src={unit.img} alt="" />
                         </div>)})}</div>
