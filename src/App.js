@@ -1,7 +1,8 @@
 //Import CSS 
 import './css/App.css';
 import './css/Nav.css';
-import './css/Index.css'
+import './css/Index.css';
+import './css/Landing.css';
 
 //Import components
 import Nav from './components/Nav';
