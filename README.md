@@ -56,7 +56,7 @@ https://warhandler.netlify.app
 
 
 
-![Imgur](https://i.imgur.com/t76J9Ve.png)
+![Imgur](https://i.imgur.com/eJ6YGqe.jpg)
 
 ![Imgur](https://i.imgur.com/sxger0K.png)
 
