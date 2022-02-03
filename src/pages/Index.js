@@ -19,7 +19,13 @@ function Index(props) {
 
     const loaded = () => {
         return (
+           <body>
+               
+           
+            <h1>All Units</h1>
+            
             <section id ="index-section">
+              
                 {datasheets.map((unit) => (
                     <div className="unit-container">
                         <Link key={unit.id} to={`/army/${unit.id}`}>
@@ -32,6 +38,7 @@ function Index(props) {
                 
                 
             </section>
+            </body>
     )}
 
     return datasheets ? loaded() : <h1>Loading...</h1>
