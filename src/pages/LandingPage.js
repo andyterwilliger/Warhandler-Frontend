@@ -18,7 +18,7 @@ function LandingPage(props) {
                 </p>
 
             <h5>IN THE GRIM DARKNESS OF THE FAR FUTURE THERE IS ONLY WAR</h5>
-        <Link to='/'>
+        <Link to='/Index'>
         <button>Click to Enter</button>
         </Link>
        

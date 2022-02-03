@@ -28,16 +28,16 @@ function CreateShow(props) {
     }
     return (
         <div className="unit">
-          <h1>{unit.Name}</h1>
-          <h2>{unit.Movement}</h2>
-          <h2>{unit.WeaponSkill}</h2>
-          <h2>{unit.BallisticSkill}</h2>
-          <h2>{unit.Strength}</h2>
-          <h2>{unit.Toughness}</h2>
-          <h2>{unit.Wounds}</h2>
-          <h2>{unit.Attacks}</h2>
-          <h2>{unit.Leadership}</h2>
-          <h2>{unit.Save}</h2>
+          <h1>Name: {unit.Name}</h1>
+          <h2>Movement - {unit.Movement}</h2>
+          <h2>Weapon Skill - {unit.WeaponSkill}</h2>
+          <h2>Ballistic Skill - {unit.BallisticSkill}</h2>
+          <h2>Strength - {unit.Strength}</h2>
+          <h2>Toughness - {unit.Toughness}</h2>
+          <h2>Wounds - {unit.Wounds}</h2>
+          <h2>Attacks - {unit.Attacks}</h2>
+          <h2>Leadership - {unit.Leadership}</h2>
+          <h2>Save - {unit.Save}</h2>
           
            <button id='delete' onClick={removeUnit}>
               DELETE
