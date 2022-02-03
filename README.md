@@ -13,9 +13,11 @@ As in other miniature wargames, players enact battles using miniature models of 
 
 Warhammer 40,000 is set in the distant future, where a stagnant human civilization is beset by hostile aliens and supernatural creatures. The models in the game are a mixture of humans, aliens, and supernatural monsters, wielding futuristic weaponry and supernatural powers. The fictional setting of the game has been developed through a large body of novels, published by Black Library.
 
--Click on the Index tab to view a large list of Units including their name and image 
--Select a unit to view and you'll be directed to a Datacard.  Here we have included the Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds, Attacks, Leadership and Save for that specific Unit.
--Interested in creating your own Unit? Check out the Create Link where you can Create, Update and Delete a Unit of your own!
+### Click on the Index tab to view a large list of Units including their name and image 
+
+###Select a unit to view and you'll be directed to a Datacard.  Here we have included the Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds, Attacks, Leadership and Save for that specific Unit.
+
+###Interested in creating your own Unit? Check out the Create Link where you can Create, Update and Delete a Unit of your own!
 
 
 ### Trello Link
