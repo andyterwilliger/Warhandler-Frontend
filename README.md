@@ -7,7 +7,7 @@
 
 # **WarHandler**
 
-## Our mission was to design a more comprehensive, user-friendly data resource app for players to reference.
+## Our mission was to design a more comprehensive, user-friendly data resource app for players.
 Warhammer 40K is a tabletop miniatures game by Games Workshop, and it is one of the most popular army scale tabletop games in the world. 
 As in other miniature wargames, players enact battles using miniature models of warriors and fighting vehicles. The playing area is a tabletop model of a battlefield, comprising models of buildings, hills, trees, and other terrain features. Each player takes turns to move their model warriors around the battlefield and pretend that they are fighting their opponent's warriors. These imaginary fights are resolved using dice and simple arithmetic.
 
