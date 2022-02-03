@@ -58,9 +58,9 @@ https://warhandler.netlify.app
 
 ![Imgur](https://i.imgur.com/eJ6YGqe.jpg)
 
-![Imgur](https://i.imgur.com/sxger0K.png)
-
 ![Imgur](https://i.imgur.com/QB3xVUr.png)
+
+![IMGUR](https://i.imgur.com/nnyRcKh.png)
 
 
 
