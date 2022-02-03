@@ -27,6 +27,8 @@ function CreateShow(props) {
         props.history.push('/');
     }
     return (
+
+      
         <div className="unit">
           <h1>Name: {unit.Name}</h1>
           <h2>Movement - {unit.Movement}</h2>
@@ -38,84 +40,83 @@ function CreateShow(props) {
           <h2>Attacks - {unit.Attacks}</h2>
           <h2>Leadership - {unit.Leadership}</h2>
           <h2>Save - {unit.Save}</h2>
-          
-           <button id='delete' onClick={removeUnit}>
-              DELETE
-          </button>
 
-          <form onSubmit={handleSubmit}>
+          <form id = 'create-show-form'onSubmit={handleSubmit}>
             <input
                  type="text"
                  value={editForm.Name}
                  name="Name"
                  placeholder="Name"
-                 onChange={handleChange}
-               />
+                 onChange={handleChange} 
+               /> <br/>
                <input
                  type="text"
                  value={editForm.Movement}
                  name="Movement"
                  placeholder="Movement"
                  onChange={handleChange}
-               />
+               /><br/>
                <input
                  type="text"
                  value={editForm.WeaponSkill}
                  name="WeaponSkill"
                  placeholder="Weapon Skill"
                  onChange={handleChange}
-               />
+               /><br/>
                <input
                  type="text"
                  value={editForm.BallisticSkill}
                  name="BallisticSkill"
                  placeholder="Ballistic Skill"
                  onChange={handleChange}
-               />
+               /><br/>
                <input
                  type="text"
                  value={editForm.Strength}
                  name="Strength"
                  placeholder="Strength"
                  onChange={handleChange}
-               />
+               /><br/>
                <input
                  type="text"
                  value={editForm.Toughness}
                  name="Toughness"
                  placeholder="Toughness"
                  onChange={handleChange}
-               />
+               /><br/>
                <input
                  type="text"
                  value={editForm.Wounds}
                  name="Wounds"
                  placeholder="Wounds"
                  onChange={handleChange}
-               />
+               /><br/>
                <input
                  type="text"
                  value={editForm.Attacks}
                  name="Attacks"
                  placeholder="Attacks"
                  onChange={handleChange}
-               />
+               /><br/>
                <input
                  type="text"
                  value={editForm.Leadership}
                  name="Leadership"
                  placeholder="Leadership"
                  onChange={handleChange}
-               />
+               /><br/>
                <input
                  type="text"
                  value={editForm.Save}
                  name="Save"
                  placeholder="Save"
                  onChange={handleChange}
-               />
-               <input type="submit" value="Update Unit" />
+               /><br/>
+               <input id="submit"type="submit" value="Update Unit" />
         </form>
+        <button id='delete' onClick={removeUnit}>
+              DELETE UNIT
+          </button>
       </div>
     );
   }
