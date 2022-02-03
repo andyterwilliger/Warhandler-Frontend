@@ -61,8 +61,9 @@ const loading = () => {
 
 
 return (
+   
     <section>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} id = 'create-army-form'>
         <input
           type="text"
           value={newForm.Name}
@@ -70,6 +71,7 @@ return (
           placeholder="Unit Name"
           onChange={handleChange}
         />
+        <br/>
         <input
           type="text"
           value={newForm.Movement}
@@ -77,6 +79,7 @@ return (
           placeholder="Movement"
           onChange={handleChange}
         />
+         <br/>
         <input
           type="text"
           value={newForm.WeaponSkill}
@@ -84,6 +87,7 @@ return (
           placeholder="Weapon Skill"
           onChange={handleChange}
         />
+         <br/>
         <input
           type="text"
           value={newForm.BallisticSkill}
@@ -91,6 +95,7 @@ return (
           placeholder="Ballistic Skill"
           onChange={handleChange}
         />
+         <br/>
         <input
           type="text"
           value={newForm.Strength}
@@ -98,6 +103,7 @@ return (
           placeholder="Strength"
           onChange={handleChange}
         />
+         <br/>
         <input
           type="text"
           value={newForm.Toughness}
@@ -105,6 +111,7 @@ return (
           placeholder="Toughness"
           onChange={handleChange}
         />
+         <br/>
         <input
           type="text"
           value={newForm.Wounds}
@@ -112,6 +119,7 @@ return (
           placeholder="Wounds"
           onChange={handleChange}
         />
+         <br/>
         <input
           type="text"
           value={newForm.Attacks}
@@ -119,6 +127,7 @@ return (
           placeholder="Attacks"
           onChange={handleChange}
         />
+         <br/>
         <input
           type="text"
           value={newForm.Leadership}
@@ -126,6 +135,7 @@ return (
           placeholder="Leadership"
           onChange={handleChange}
         />
+         <br/>
         <input
           type="text"
           value={newForm.Save}
@@ -133,10 +143,14 @@ return (
           placeholder="Save"
           onChange={handleChange}
         />
-        <input type="submit" value="Create Army Unit" />
+         <br/>
+        <input id = 'create-army-submit' type="submit" value="Create Army Unit" />
       </form>
+    <div id = "units">
     {props.units ? loaded() : loading()}
+    </div>
     </section>
+    
   );
 }
 

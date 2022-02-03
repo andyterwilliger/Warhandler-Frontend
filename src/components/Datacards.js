@@ -17,39 +17,25 @@ function Datacard(props) {
 
     const loaded = () =>{
         return (
-            <table>
-                <thead>
-                    <tr>
-                        <th><img src={datacards[1].img} alt={datacards[0].name}/></th>
-                        <th>{datacards[0].name}</th>
-                        <th>{datacards[1].faction_id}</th>
-                        <th>M</th>
-                        <th>WS</th>
-                        <th>BS</th>
-                        <th>S</th>
-                        <th>T</th>
-                        <th>W</th>
-                        <th>A</th>
-                        <th>Ld</th>
-                        <th>Sv</th>
+            <table> 
+                <thead> 
+                    <tr> 
+                        <th class= 'header'><img src={datacards[1].img} alt={datacards[0].name}/></th> 
+                        <th class= 'header'>{datacards[0].name}</th> 
+                        <th class= 'header'>Faction: {datacards[1].faction_id}</th>
+                        <th class= 'header'> Role: {datacards[1].role}   </th>
+                        <th>Movement:  {datacards[0].M} </th>
+                        <th>Weapon Skill: {datacards[0].WS}</th>
+                        <th>Ballistic Skill: {datacards[0].BS}</th>
+                        <th>Strength: {datacards[0].S}</th>
+                        <th>Toughness: {datacards[0].T}</th>
+                        <th>Wounds: {datacards[0].W}</th>
+                        <th>Armor: {datacards[0].A}</th>
+                        <th>Leadership: {datacards[0].Ld}</th>
+                        <th>Save: {datacards[0].Sv}</th> 
                     </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>{datacards[0].M}</td>
-                        <td>{datacards[0].WS}</td>
-                        <td>{datacards[0].BS}</td>
-                        <td>{datacards[0].S}</td>
-                        <td>{datacards[0].T}</td>
-                        <td>{datacards[0].W}</td>
-                        <td>{datacards[0].A}</td>
-                        <td>{datacards[0].Ld}</td>
-                        <td>{datacards[0].Sv}</td>
-                    </tr>
-                    <tr>
-                        <td>{datacards[1].role}</td>
-                    </tr>
-                </tbody>
+                </thead> <br/>
+                
             </table>
         )
     }
