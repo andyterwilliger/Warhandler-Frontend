@@ -4,6 +4,7 @@ import './css/Nav.css';
 import './css/Index.css'
 import './css/CreateArmy.css';
 import './css/CreateShow.css';
+import './css/Show.css';
 //Import components
 import Nav from './components/Nav';
 import Main from './components/Main';
