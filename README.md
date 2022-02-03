@@ -3,9 +3,9 @@
 ![GIF](https://media0.giphy.com/media/RLv9UwnfiNb9K/200.gif?cid=ecf05e47tn41aer97ovleq3sueas5qy11zd5kri3wrbnu8yk&rid=200.gif&ct=g)
 
 
-# Project Name
+### Project Name
 
-## **WarHandler**
+# **WarHandler**
 
 Warhammer 40K is a tabletop miniatures game by Games Workshop, and it is one of the most popular army scale tabletop games in the world. 
 As in other miniature wargames, players enact battles using miniature models of warriors and fighting vehicles. The playing area is a tabletop model of a battlefield, comprising models of buildings, hills, trees, and other terrain features. Each player takes turns to move their model warriors around the battlefield and pretend that they are fighting their opponent's warriors. These imaginary fights are resolved using dice and simple arithmetic.
@@ -16,23 +16,23 @@ Our mission was to design a more comprehensive, user-friendly data resource app 
 
 
 
-## Trello Link
+### Trello Link
 https://trello.com/b/fmRYYcEh/warhandler
 
 
 
 
-## Pitch Deck Link
+### Pitch Deck Link
 Check out our Pitch Deck created with   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 https://www.canva.com/design/DAE23phu_lU/H0TOaIcS6gNls0wqNQDpQw/view?utm_content=DA[…]gn=designshare&utm_medium=link&utm_source=shareyourdesignpanel
 
 
-## Resources for more WarHammer Info
+### Resources for more WarHammer Info
 https://wahapedia.ru/wh40k9ed/the-rules/about/
 
 
-## Deployment
+### Deployment
 
 To deploy this project run
 https://warhandlerbackend.herokuapp.com
@@ -41,7 +41,7 @@ https://warhandlerbackend.herokuapp.com
 
 
 
-## Screenshots
+### Screenshots
 
 
 
@@ -53,7 +53,7 @@ https://warhandlerbackend.herokuapp.com
 
 
 
-## Ice Box
+### Ice Box
 
 
 Ability to create armies using our database
@@ -62,7 +62,7 @@ Ability to create armies using our database
 
 
 
-## Technologies Used
+### Technologies Used
 
 
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -79,7 +79,7 @@ Ability to create armies using our database
  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
  ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Authors
+# Authors
 
 Find us on
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
