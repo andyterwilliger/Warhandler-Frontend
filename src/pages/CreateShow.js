@@ -27,13 +27,20 @@ function CreateShow(props) {
         props.history.push('/');
     }
     return (
+
       
-       
-      <div className="unit">
-      
-          
-          
-      
+        <div className="unit">
+          <h1>Name: {unit.Name}</h1>
+          <h2>Movement - {unit.Movement}</h2>
+          <h2>Weapon Skill - {unit.WeaponSkill}</h2>
+          <h2>Ballistic Skill - {unit.BallisticSkill}</h2>
+          <h2>Strength - {unit.Strength}</h2>
+          <h2>Toughness - {unit.Toughness}</h2>
+          <h2>Wounds - {unit.Wounds}</h2>
+          <h2>Attacks - {unit.Attacks}</h2>
+          <h2>Leadership - {unit.Leadership}</h2>
+          <h2>Save - {unit.Save}</h2>
+
           <form id = 'create-show-form'onSubmit={handleSubmit}>
             <input
                  type="text"
