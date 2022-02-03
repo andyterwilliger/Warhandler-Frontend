@@ -11,7 +11,7 @@
 Warhammer 40K is a tabletop miniatures game by Games Workshop, and it is one of the most popular army scale tabletop games in the world. 
 As in other miniature wargames, players enact battles using miniature models of warriors and fighting vehicles. The playing area is a tabletop model of a battlefield, comprising models of buildings, hills, trees, and other terrain features. Each player takes turns to move their model warriors around the battlefield and pretend that they are fighting their opponent's warriors. These imaginary fights are resolved using dice and simple arithmetic.
 
-Warhammer 40,000 is set in the distant future, where a stagnant human civilization is beset by hostile aliens and supernatural creatures. The models in the game are a mixture of humans, aliens, and supernatural monsters, wielding futuristic weaponry and supernatural powers. The fictional setting of the game has been developed through a large body of novels, published by Black Library.
+Warhammer 40K is set in the distant future, where a stagnant human civilization is beset by hostile aliens and supernatural creatures. The models in the game are a mixture of humans, aliens, and supernatural monsters, wielding futuristic weaponry and supernatural powers. The fictional setting of the game has been developed through a large body of novels, published by Black Library.
 
 - Click on the Index tab to view an extensive list of Units including their name and image. 
 
