@@ -99,7 +99,7 @@ Chris McClarin   | Project Roles: Scrum Leader & Frontend Developer | www.linked
 
 Andy Terwilliger | Project Roles: CSS Developer & Full Stack Developer  | www.linkedin.com/in/andy-terwilliger
 
-Kendlyn Marriott | Project Roles: Backend Developer & PitchDeck |www.linkedin.com/in/kendlyn-marriott
+Kendlyn Marriott | Project Roles: Backend Developer & PitchDeck | www.linkedin.com/in/kendlyn-marriott
 
 
 	
