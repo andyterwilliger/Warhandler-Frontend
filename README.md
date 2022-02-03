@@ -20,23 +20,27 @@ Warhammer 40,000 is set in the distant future, where a stagnant human civilizati
 ### Interested in creating your own Unit? Check out the Create Link where you can Create, Update and Delete a Unit of your own!
 
 
-### Trello Link
+
+
+## Trello Link
+
 https://trello.com/b/fmRYYcEh/warhandler
 
 
 
 
-### Pitch Deck Link
+## Pitch Deck Link
 Check out our Pitch Deck created with   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 https://www.canva.com/design/DAE23phu_lU/H0TOaIcS6gNls0wqNQDpQw/view?utm_content=DA[…]gn=designshare&utm_medium=link&utm_source=shareyourdesignpanel
 
 
-### Resources for more WarHammer Info
+## Resources for more WarHammer Info
+
 https://wahapedia.ru/wh40k9ed/the-rules/about/
 
 
-### Deployment
+## Deployment
 
 To deploy this project run
 https://warhandlerbackend.herokuapp.com
@@ -45,7 +49,7 @@ https://warhandlerbackend.herokuapp.com
 
 
 
-### Screenshots
+## Screenshots
 
 
 
@@ -57,7 +61,7 @@ https://warhandlerbackend.herokuapp.com
 
 
 
-### Ice Box
+## Ice Box
 
 
 Ability to create armies using our database
@@ -66,7 +70,7 @@ Ability to create armies using our database
 
 
 
-### Technologies Used
+## **Technologies Used**
 
 
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -83,7 +87,7 @@ Ability to create armies using our database
  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
  ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-# Authors
+# **Authors**
 
 Find us on
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
