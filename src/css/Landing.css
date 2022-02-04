@@ -16,13 +16,23 @@
     font-size: 200%;
 }
 
-#landing-h2{
+#initial-landing-h2{
+    animation: fadein 4s;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 60%;
-    height: 40%;
+    font-size: 80%;
+    height: 2%;
+   
     
+}
+
+#second-h2{
+    animation: fadein1 15s;
+    display: flex;
+    font-size: 70%;
+    justify-content: center;
+    height: 20%;
 }
 
 #landing-button{
@@ -41,19 +51,46 @@ button{
    
 }
 
-@media only screen and (max-width: 400px) {
+button:hover{
+    background-color: black;
+    color:white;
+}
+
+@media only screen and (max-width: 450px) {
     nav{
        font-size: .5rem;
     }
     
-    h1{
-        font-size: 80%;
-       
-    }
+  #landing-h1{
+  
+    font-size: 130%;
+  }
 
     h2{
         width: 85%;
     }
+    #initial-landing-h2{
+        height: 40%
+    }
     
 }
 
+@keyframes fadein {
+    0% {
+    opacity:0;
+    }
+   
+    100% {
+    opacity:1;
+    }
+   }
+
+@keyframes fadein1{
+  0%{
+      opacity: 0;
+  }
+    100%{
+        opacity: 1;
+    }
+    
+}

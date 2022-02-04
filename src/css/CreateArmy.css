@@ -33,6 +33,11 @@ input {
     color: white;
 }
 
+#create-army-submit:hover{
+    background-color: white;
+    color:black;
+}
+
 #units{
     background-color: #EDF2F4;
     margin: 5% 25% 5% 25%
@@ -40,7 +45,13 @@ input {
 
 
 @media only screen and (max-width: 400px){
-
+    h1{
+        font-size: 120%;
+    }
+    
+    #create-army-form{
+        margin:10%;
+    }
     input{
         width: 70%;
     }

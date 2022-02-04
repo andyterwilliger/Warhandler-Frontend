@@ -145,7 +145,7 @@ return (
           onChange={handleChange}
         />
          <br/>
-        <input id = 'create-army-submit' type="submit" value="Create Army Unit" />
+        <input id = 'create-army-submit' type="submit" value="Create Unit" />
      
     <div id = "units">
     {props.units ? loaded() : loading()}

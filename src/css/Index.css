@@ -22,11 +22,18 @@
 #faction-name {
     font-size: 15px;
     height: 30px;
+
     
 }
 #unit-name{
     height: 30px;
     padding: 10px;
+    
+}
+
+#unit-name:hover{
+    transform: scale(1.15);
+    transition: .5s;
 }
 
 a {

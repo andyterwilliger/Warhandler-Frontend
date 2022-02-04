@@ -30,8 +30,8 @@ function CreateShow(props) {
 
       
         <div className="unit">
-          
 
+      <h1>Update Unit</h1>
           <form id = 'create-show-form'onSubmit={handleSubmit}>
             <input
                  type="text"
@@ -104,10 +104,11 @@ function CreateShow(props) {
                  onChange={handleChange}
                /><br/>
                <input id="submit"type="submit" value="Update Unit" />
-        </form>
+        
         <button id='delete' onClick={removeUnit}>
               DELETE UNIT
           </button>
+          </form>
       </div>
     );
   }
